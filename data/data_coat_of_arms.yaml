@@ -1,0 +1,9 @@
+train: /kaggle/input/yolo-v7/yolov7/Brown_coat_of_arms/images
+val: /kaggle/input/yolo-v7/yolov7/Brown_coat_of_arms/images
+
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Brown Coat of Arms']
