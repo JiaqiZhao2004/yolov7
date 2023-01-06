@@ -1,5 +1,5 @@
-train: /kaggle/input/yolo-v7/yolov7/Brown_coat_of_arms/images
-val: /kaggle/input/yolo-v7/yolov7/Brown_coat_of_arms/images
+train: Brown_coat_of_arms/images
+val: Brown_coat_of_arms/images
 
 
 # number of classes
